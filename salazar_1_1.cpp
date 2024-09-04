@@ -1,6 +1,8 @@
 // This is the first program that just writes out a simple message
 
 // Marcelino Salazar
+// CSCI-40-52421
+// Lab 1.1
 
 #include <iostream>	// needed to perform C++ I/O
 using namespace std;
@@ -12,3 +14,5 @@ int main()
 
 	return 0;
 }
+
+// This prints both strings stacked 
