@@ -12,7 +12,7 @@ int main()
 	float number;
 	int divider;
 
-	divider = 0;
+	divider = 2;
 
 	cout << "Hi there" << endl;
 	cout << "Please input a number and then hit return" << endl;
@@ -24,3 +24,6 @@ int main()
 
 	return 0;
 }
+
+// When you input 9 it returns 4.5
+// Outputs are valid
