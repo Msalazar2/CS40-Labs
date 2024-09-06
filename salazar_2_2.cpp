@@ -1,7 +1,9 @@
 // This program will output the circumference and area
 // of the circle with a given radius.
 
-// PLACE YOUR NAME HERE
+//// Marcelino Salazar
+// CSCI-40-52421
+// Lab 2.1
 
 #include <iostream>
 using namespace std;
@@ -15,7 +17,7 @@ int main()
 	int circumference;				// definition of circumference 
 	
     circumference = 2 * PI * RADIUS;	// computes circumference
-	area = 91.5624;							// computes area
+	area = PI * (RADIUS * RADIUS);							// computes area
 
 	cout << "The circumference of the circle is " << circumference << endl;
     cout << "The area of the circle is " << area << endl;
@@ -24,6 +26,6 @@ int main()
 }
 
 // Initially produces a syntax error due to missing semicolon, missing definition for area, and missing expression for area.
-// I changed circumference defintion to integer and added float to area
+// I changed circumference defintion to integer and added float to area.
 // The output value of circumference is a discrete integer and no longer a floating point.
-// I input the value for area
+// I assigned the formula expression to area variable.
