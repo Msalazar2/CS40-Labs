@@ -3,7 +3,7 @@
 
 //// Marcelino Salazar
 // CSCI-40-52421
-// Lab 2.1
+// Lab 2.2
 
 #include <iostream>
 using namespace std;
