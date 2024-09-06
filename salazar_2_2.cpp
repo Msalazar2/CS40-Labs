@@ -1,7 +1,7 @@
 // This program will output the circumference and area
 // of the circle with a given radius.
 
-//// Marcelino Salazar
+// Marcelino Salazar
 // CSCI-40-52421
 // Lab 2.2
 

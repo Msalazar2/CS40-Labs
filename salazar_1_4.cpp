@@ -2,7 +2,7 @@
 // before printing the values. The user will be prompted to enter
 // both numbers.
 
-/// Marcelino Salazar
+// Marcelino Salazar
 // CSCI-40-52421
 // Lab 1.4
 
