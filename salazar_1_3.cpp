@@ -25,5 +25,5 @@ int main()
 	return 0;
 }
 
-// When you input 9 it returns 4.5
-// Outputs are valid
+// When you input 9 it returns 4.5.
+// Outputs are valid.
