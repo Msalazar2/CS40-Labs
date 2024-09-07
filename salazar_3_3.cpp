@@ -3,7 +3,7 @@
 
 // Marcelino Salazar
 // CSCI-40-52421
-// Lab 3.2
+// Lab 3.3
 
 #include <iostream>
 #include <cmath>	// needed for math functions like sqrt() and pow()
