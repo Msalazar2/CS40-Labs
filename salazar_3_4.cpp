@@ -16,7 +16,7 @@ int main()
 	float batAvg;
 
 	batAvg = static_cast<float>(HITS) / AT_BAT;	 // an assignment statement 
-	cout << "The batting average is " << batAvg << endl;	// output the result
+	cout << "The batting average is " << batAvg << endl;  // output the result
 
 	return 0;
 }
